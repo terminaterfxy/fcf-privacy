@@ -1,13 +1,11 @@
 # fcf-privacy
 
-Public privacy policy pages for **Family Cash Flow / 家庭现金流**.
+Legal pages for **Family Cash Flow / 家庭现金流** (GitHub Pages).
 
-## Live URLs (Settings → Pages → branch `main` → `/root`)
-
-| Page | URL |
-|------|-----|
-| Auto redirect | https://terminaterfxy.github.io/fcf-privacy/ |
-| 中文 | https://terminaterfxy.github.io/fcf-privacy/privacy-zh.html |
-| English | https://terminaterfxy.github.io/fcf-privacy/privacy-en.html |
-
-App Store Privacy Policy URL: **https://terminaterfxy.github.io/fcf-privacy/**
+| Document | URL |
+|----------|-----|
+| Privacy (auto) | https://terminaterfxy.github.io/fcf-privacy/ |
+| Privacy 中文 | https://terminaterfxy.github.io/fcf-privacy/privacy-zh.html |
+| Privacy EN | https://terminaterfxy.github.io/fcf-privacy/privacy-en.html |
+| Terms 中文 | https://terminaterfxy.github.io/fcf-privacy/terms-zh.html |
+| Terms EN | https://terminaterfxy.github.io/fcf-privacy/terms-en.html |
