@@ -13,5 +13,7 @@ Legal pages for **Family Cash Flow / 家庭现金流** (GitHub Pages).
 | Terms 繁體中文 | https://terminaterfxy.github.io/fcf-privacy/terms-zh-hant.html |
 | Terms 日本語 | https://terminaterfxy.github.io/fcf-privacy/terms-ja.html |
 | Terms EN | https://terminaterfxy.github.io/fcf-privacy/terms-en.html |
+| Delete account (auto by browser language; Google Play) | https://terminaterfxy.github.io/fcf-privacy/delete-account.html |
+| Delete account 简体中文 / 繁體中文 / 日本語 / EN | `delete-account-zh.html` · `delete-account-zh-hant.html` · `delete-account-ja.html` · `delete-account-en.html` |
 
 繁體中文 is a translation of the 简体中文 version (the 简体中文 version prevails); 日本語 is a translation of the English version (the English version prevails).

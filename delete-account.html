@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Family Cash Flow — Delete Your Account</title>
+  <script>
+    (function () {
+      var lang = (navigator.language || '').toLowerCase();
+      var target = 'delete-account-en.html';
+      if (lang.indexOf('zh') === 0) {
+        target = /-hans\b/.test(lang) ? 'delete-account-zh.html'
+          : /-(hant|tw|hk|mo)\b/.test(lang) ? 'delete-account-zh-hant.html' : 'delete-account-zh.html';
+      } else if (lang.indexOf('ja') === 0) {
+        target = 'delete-account-ja.html';
+      }
+      location.replace(target);
+    })();
+  </script>
+</head>
+<body>
+  <p>Delete your account · <a href="delete-account-zh.html">简体中文</a> · <a href="delete-account-zh-hant.html">繁體中文</a> · <a href="delete-account-ja.html">日本語</a> · <a href="delete-account-en.html">English</a></p>
+</body>
+</html>
